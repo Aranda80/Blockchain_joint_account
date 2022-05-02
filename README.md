@@ -11,12 +11,12 @@ You can see screenshot of the contract execution results below:
 
 - Deposti - Transaction 2
 
-![Deposit - Transaction 2](Lex_bot_test.gif)
+![Deposit - Transaction 2](Execution_Results/Depo_transaction2.png)
 
 
 - Deposit - Transaction 3 
 
-![Deposit - Transaction 3]()
+![Deposit - Transaction 3](Execution_Results/Depo_transaction3.png)
 
 - Withdraw from joint account to account 1 
 
