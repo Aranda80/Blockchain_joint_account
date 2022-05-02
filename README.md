@@ -20,12 +20,12 @@ You can see screenshot of the contract execution results below:
 
 - Withdraw from joint account to account 1 
 
-![Deposit - Transaction 3](Execution_Results/Withdraw_transaction1)
+![Withdraw from joint account to account 1 ](Execution_Results/Withdraw_transaction1)
 
 - Withdraw from joint account to account 2
 
-![Deposit - Transaction 3](Execution_Results/Withdraw_transaction1)
+![Withdraw from joint account to account 2](Execution_Results/Withdraw_transaction1)
 
 - Verification of last withdraw (account and amount)
 
-![Deposit - Transaction 3](Execution_Results/Lastwithdraw_verification)
+![Verification of last withdraw (account and amount)](Execution_Results/Lastwithdraw_verification)
